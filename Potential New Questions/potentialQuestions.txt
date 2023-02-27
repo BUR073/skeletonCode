@@ -1,0 +1,17 @@
+Potential Questions:
+
+Make the board larger (or allow the user to set the board size).
+
+User help / info / tutorial page.
+
+New class to allow for saving and loading the game.
+
+Limit the number of times the offer option can be taken in a turn.
+
+End the game when one person's score reaches 0 or goes negative.
+
+Undo move option.
+
+Display scores at the end.
+
+Instead of one offer generated, generate three random offers for the user to pick from.
